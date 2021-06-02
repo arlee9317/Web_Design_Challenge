@@ -1,0 +1,57 @@
+/* Add styles here*/
+
+body{
+	background-color: lightgrey;
+
+	
+}
+
+.navbar{
+	background-color: white;
+	padding-right: 0px;
+	padding-left: 0px;
+
+}
+.navbar a{
+
+	color:  white;
+	padding-left: 10px;
+	padding-right: 10px;
+
+}
+
+
+.navbar ul li{
+
+	display: inline-block;
+	margin-right: 20px;
+	padding-top: 10px;
+
+}
+
+.navbar ul li a{
+	color: black;
+}
+
+.navbar ul li a:hover{
+	background-color: grey;
+}
+
+h1{
+	color: lightseagreen;
+}
+
+h2{
+	font-size: 12px;
+}
+
+h3{
+
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
